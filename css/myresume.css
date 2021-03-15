@@ -11,3 +11,24 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
 }
+
+h1, .h1 {
+	font-size:5rem;
+}
+
+p.lead {
+	font-size:1.2reb;
+}
+
+.bg-primary {
+	background-color:#b3d1b9!important;
+	background-image:url(../assets/img/45-degree-fabric-light.png);
+}
+
+.text-primary {
+	color:#b3d1b9!important;
+}
+
+a {
+	color:#b3d1b9;
+}
