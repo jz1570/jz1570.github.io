@@ -32,3 +32,12 @@ p.lead {
 a {
 	color:#00387d;
 }
+table{
+	    width:80%;
+}
+tr:nth-child(even){
+	    background-color:#ddd;
+}
+td {
+	border:1px solid #2a5d44;
+}
